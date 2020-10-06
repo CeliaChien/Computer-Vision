@@ -1,7 +1,9 @@
 # Introduction
 
-Use matlab
+Use matlab. 
+
 In the **code** folder, there are code and the resource for Lab experiments.
+
 In the **coursework** foler, there are steps and instructions for doing experiments and answering questions.
 
 As for the courses, it also has a link for [lesson notes(click here)](https://celiachien.github.io/categories/Computer-Vision/).
