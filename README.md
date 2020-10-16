@@ -22,3 +22,13 @@ As for the courses, it also has a link for [lesson notes(click here)](https://ce
 - Q3: Redundancy in Natural Images
 - Q4: Redundancy Reduction by Retinal Ganglion Cells (simulated with Difference of Gaussians)
 - Q5: Colour Detection with Colour Opponent Cells
+
+## course work 3
+- Q1: Smoothing using Box Masks
+- Q2: Smoothing using Gaussian Masks
+- Q3: Differencing with First-Derivative Masks
+- Q4: Differencing with Laplacian Masks
+- Q5: Edge Detection with Gaussian Derivative Masks
+- Q6: Edge Detection with Laplacian of Gaussian(LoG) Masks
+- Q7: Multi-scale Representations: The Gaussian Image Pyramid
+- Q8: Multi-scale Representations: The Laplacian Image Pyramid
